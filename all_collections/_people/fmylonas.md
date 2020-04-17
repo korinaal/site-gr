@@ -1,7 +1,7 @@
 ---
 ref: fmylonas
 title: "Φοίβος Μυλωνάς"
-excerpt: "Αναπαράσταση και Διαχείριση Γνώση"
+excerpt: "Αναπαράσταση και Διαχείριση Γνώσης"
 rank: 3
 author: fmylonas
 research:
